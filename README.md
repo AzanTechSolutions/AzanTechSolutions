@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed Azan
+# 👋 Hi, I'm Syed Azan Kumail
 
 🚀 **Professional Software Engineer | Full-Stack Developer | Java Specialist**
 
